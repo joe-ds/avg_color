@@ -1,0 +1,8 @@
+[package]
+name = "avg_color"
+version = "0.1.0"
+authors = ["Joe Peterson"]
+edition = "2018"
+
+[dependencies]
+image = "0.20.1"
